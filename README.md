@@ -35,3 +35,27 @@ Start time: 1300
 Finish time: 2300
 
 Actual time needed to complete: til 2359
+
+|-------------|
+
+Name of feature: 8/23/23 lab -8
+
+Estimate of time needed to complete: 10 hrs
+
+Start time: 1200
+
+Finish time: 2200
+
+Actual time needed to complete: til 2359
+
+|-------------|
+
+Name of feature: 8/24/23 lab -9
+
+Estimate of time needed to complete: 10 hrs
+
+Start time: 1500
+
+Finish time: 2001
+
+Actual time needed to complete: til 2359
