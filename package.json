@@ -1,16 +1,22 @@
 {
   "name": "city-explorer-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "back end server for city-ex",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfpagalan/city-ex-api.git"
+  },
+  "author": "Sydney Pagalan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfpagalan/city-explorer-api/issues"
+  },
+  "homepage": "https://github.com/sfpagalan/city-explorer-api#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.3.1",
     "express": "^4.18.2"
   }
 }
